@@ -1,4 +1,5 @@
 # selling-phone-website
+## See detail: https://drive.google.com/drive/folders/1NhBBoGEspcyKsMsryp6gsevX577KOfZ6?usp=sharing
 
 ## Project setup
 ```
